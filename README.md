@@ -10,14 +10,12 @@ The New York Times COVID-19 US Map: https://www.nytimes.com/interactive/2020/us/
 The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html.  
 
 
- 
-
 # Tables
 
 **Table 1. Coronavirus (COVID-19) Cases in the United States by County (Top 10 Counties)**
 
-|    | date       | state         | cases   | deaths   |
-|---:|:-----------|:--------------|--------:|---------:|
+|    | date       | county        | state      | cases   | deaths   |
+|---:|:-----------|:--------------|:-----------|--------:|---------:|
 |  0 | 2020-04-13 | New York City | New York   | 106,764 | 7,154    |
 |  1 | 2020-04-13 | Nassau        | New York   | 24,358  | 1,109    |
 |  2 | 2020-04-13 | Suffolk       | New York   | 21,643  | 580      |
@@ -30,7 +28,7 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 |  9 | 2020-04-13 | Hudson        | New Jersey | 7,879   | 236      | 
 
 
-## Bar Charts
+# Bar Charts
 
 ![numer of cases county horizontal](figures/counties-barh.png)  
 
