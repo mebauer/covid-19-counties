@@ -32,6 +32,9 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 ![numer of cases county horizontal](figures/counties-barh.png)  
 
+![epi curve](figures/epi_curve.png)  
+
+
 # Figures
 
 ##  Number of Positives Per Day
