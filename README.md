@@ -2,7 +2,7 @@
 
 *Author: Mark Bauer*  
 *Date Updated: April 12, 2020*  
-*Date Updated: April 27, 2020*
+*Date Updated: April 28, 2020*
 
 The New York Times Github Data Repository: https://github.com/nytimes/covid-19-data.   
 The New York Times News Article: https://www.nytimes.com/article/coronavirus-county-data-us.html.  
@@ -16,16 +16,16 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 |    | date       | county        | state      | cases   | deaths   |
 |---:|:-----------|:--------------|:-----------|--------:|---------:|
-|  0 | 2020-04-26 | New York City | New York   | 158,268 | 11,648   |
-|  1 | 2020-04-26 | Nassau        | New York   | 34,522  | 1,962    |
-|  2 | 2020-04-26 | Suffolk       | New York   | 32,059  | 1,115    |
-|  3 | 2020-04-26 | Cook          | Illinois   | 30,574  | 1,313    |
-|  4 | 2020-04-26 | Westchester   | New York   | 27,664  | 1,054    |
-|  5 | 2020-04-26 | Los Angeles   | California | 19,528  | 913      |
-|  6 | 2020-04-26 | Wayne         | Michigan   | 15,748  | 1,580    |
-|  7 | 2020-04-26 | Bergen        | New Jersey | 14,965  | 955      |
-|  8 | 2020-04-26 | Hudson        | New Jersey | 13,708  | 661      |
-|  9 | 2020-04-26 | Essex         | New Jersey | 12,863  | 1,023    | 
+|  0 | 2020-04-27 | New York City | New York   | 160,499 | 11,857   |
+|  1 | 2020-04-27 | Nassau        | New York   | 34,865  | 2,003    |
+|  2 | 2020-04-27 | Suffolk       | New York   | 32,470  | 1,147    |
+|  3 | 2020-04-27 | Cook          | Illinois   | 31,953  | 1,347    |
+|  4 | 2020-04-27 | Westchester   | New York   | 28,007  | 1,077    |
+|  5 | 2020-04-27 | Los Angeles   | California | 20,417  | 942      |
+|  6 | 2020-04-27 | Wayne         | Michigan   | 15,872  | 1,622    |
+|  7 | 2020-04-27 | Bergen        | New Jersey | 15,104  | 960      |
+|  8 | 2020-04-27 | Hudson        | New Jersey | 13,925  | 673      |
+|  9 | 2020-04-27 | Essex         | New Jersey | 13,047  | 1,028    | 
 
 
 # Bar Charts
