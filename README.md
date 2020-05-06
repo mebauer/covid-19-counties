@@ -2,7 +2,7 @@
 
 *Author: Mark Bauer*  
 *Date Updated: April 12, 2020*  
-*Date Updated: May 1, 2020*
+*Date Updated: May 6, 2020*
 
 The New York Times Github Data Repository: https://github.com/nytimes/covid-19-data.   
 The New York Times News Article: https://www.nytimes.com/article/coronavirus-county-data-us.html.  
@@ -16,16 +16,16 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 |    | date       | county        | state      | cases   | deaths   |
 |---:|:-----------|:--------------|:-----------|--------:|---------:|
-|  0 | 2020-04-30 | New York City | New York     | 167,489 | 12,514   |
-|  1 | 2020-04-30 | Cook          | Illinois     | 36,513  | 1,607    |
-|  2 | 2020-04-30 | Nassau        | New York     | 35,854  | 2,111    |
-|  3 | 2020-04-30 | Suffolk       | New York     | 33,664  | 1,228    |
-|  4 | 2020-04-30 | Westchester   | New York     | 28,969  | 1,144    |
-|  5 | 2020-04-30 | Los Angeles   | California   | 23,182  | 1,111    |
-|  6 | 2020-04-30 | Wayne         | Michigan     | 16,729  | 1,782    |
-|  7 | 2020-04-30 | Bergen        | New Jersey   | 15,610  | 1,136    |
-|  8 | 2020-04-30 | Hudson        | New Jersey   | 14,916  | 798      |
-|  9 | 2020-04-30 | Philadelphia  | Pennsylvania | 14,468  | 607      | 
+|  0 | 2020-05-05 | New York City | New York     | 176,935 | 13,336   |
+|  1 | 2020-05-05 | Cook          | Illinois     | 45,223  | 1,922    |
+|  2 | 2020-05-05 | Nassau        | New York     | 37,152  | 2,250    |
+|  3 | 2020-05-05 | Suffolk       | New York     | 35,275  | 1,347    |
+|  4 | 2020-05-05 | Westchester   | New York     | 30,239  | 1,236    |
+|  5 | 2020-05-05 | Los Angeles   | California   | 27,815  | 1,313    |
+|  6 | 2020-05-05 | Wayne         | Michigan     | 17,391  | 1,945    |
+|  7 | 2020-05-05 | Bergen        | New Jersey   | 16,460  | 1,261    |
+|  8 | 2020-05-05 | Philadelphia  | Pennsylvania | 16,410  | 743      |
+|  9 | 2020-05-05 | Hudson        | New Jersey   | 16,099  | 870      | 
 
 
 # Bar Charts
