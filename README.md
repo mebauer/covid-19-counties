@@ -2,7 +2,7 @@
 
 *Author: Mark Bauer*  
 *Date Updated: April 12, 2020*  
-*Date Updated: May 6, 2020*
+*Date Updated: May 24, 2020*
 
 The New York Times Github Data Repository: https://github.com/nytimes/covid-19-data.   
 The New York Times News Article: https://www.nytimes.com/article/coronavirus-county-data-us.html.  
@@ -16,16 +16,16 @@ The New York Times COVID-19 Global Map: https://www.nytimes.com/interactive/2020
 
 |    | date       | county        | state      | cases   | deaths   |
 |---:|:-----------|:--------------|:-----------|--------:|---------:|
-|  0 | 2020-05-05 | New York City | New York     | 176,935 | 13,336   |
-|  1 | 2020-05-05 | Cook          | Illinois     | 45,223  | 1,922    |
-|  2 | 2020-05-05 | Nassau        | New York     | 37,152  | 2,250    |
-|  3 | 2020-05-05 | Suffolk       | New York     | 35,275  | 1,347    |
-|  4 | 2020-05-05 | Westchester   | New York     | 30,239  | 1,236    |
-|  5 | 2020-05-05 | Los Angeles   | California   | 27,815  | 1,313    |
-|  6 | 2020-05-05 | Wayne         | Michigan     | 17,391  | 1,945    |
-|  7 | 2020-05-05 | Bergen        | New Jersey   | 16,460  | 1,261    |
-|  8 | 2020-05-05 | Philadelphia  | Pennsylvania | 16,410  | 743      |
-|  9 | 2020-05-05 | Hudson        | New Jersey   | 16,099  | 870      | 
+|  0 | 2020-05-22 | New York City | New York      | 201,298 | 20,569   |
+|  1 | 2020-05-22 | Cook          | Illinois      | 68,949  | 3,187    |
+|  2 | 2020-05-22 | Los Angeles   | California    | 43,052  | 2,049    |
+|  3 | 2020-05-22 | Nassau        | New York      | 39,608  | 2,572    |
+|  4 | 2020-05-22 | Suffolk       | New York      | 38,672  | 1,863    |
+|  5 | 2020-05-22 | Westchester   | New York      | 32,766  | 1,444    |
+|  6 | 2020-05-22 | Philadelphia  | Pennsylvania  | 21,009  | 1,221    |
+|  7 | 2020-05-22 | Middlesex     | Massachusetts | 20,085  | 1,496    |
+|  8 | 2020-05-22 | Wayne         | Michigan      | 19,602  | 2,323    |
+|  9 | 2020-05-22 | Hudson        | New Jersey    | 17,897  | 1,134    | 
 
 
 # Bar Charts
